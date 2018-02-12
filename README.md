@@ -12,5 +12,5 @@ https://learn.galvanize.com/ _(Private)_
 6. React Router
 
 
-###Resources:  
+### Resources:
 React Documentation: https://facebook.github.io/react/
