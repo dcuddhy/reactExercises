@@ -1,8 +1,7 @@
 # reactExercises
 
 This repo is full of code samples produced by walking through curriculum that can be found here:
-https://learn.galvanize.com/
-(Private)
+https://learn.galvanize.com/ _(Private)_
 
 ### React Curriculum
 1. Intro
@@ -13,5 +12,5 @@ https://learn.galvanize.com/
 6. React Router
 
 
-Resources:  
+###Resources:  
 React Documentation: https://facebook.github.io/react/
